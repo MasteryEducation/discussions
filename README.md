@@ -1,2 +1,7 @@
-# comments
-User comments for public website
+# Discussions
+
+- https://softwarepatternslexicon.com
+- https://clojurepatterns.com
+  
+
+
